@@ -8,8 +8,8 @@ This project demonstrates the use of Apache Spark with Scala for analyzing trans
 
 ## Technologies Used
 
-* Scala
-* Apache Spark
+* Scala (2.13.18)
+* Apache Spark (3.5.0)
 * Spark SQL
 * DataFrames
 * Window Functions
@@ -51,9 +51,10 @@ Learned how Spark can distribute small datasets across executors to optimize joi
 ### Prerequisites
 
 * Java 17+
-* Scala
-* Apache Spark
-* IntelliJ IDEA
+* Scala (2.13.18)
+* Apache Spark (3.5.0)
+* IntelliJ IDEA (Scala can be used as a plugin)
+
 
 ### Hadoop Configuration (Windows)
 
